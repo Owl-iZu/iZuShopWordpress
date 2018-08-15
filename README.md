@@ -1,2 +1,2 @@
 # iZuShopWordpress
-Use Framework Wordpress
+Use CMS Wordpress
